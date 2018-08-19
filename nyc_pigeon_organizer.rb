@@ -1,6 +1,7 @@
 def nyc_pigeon_organizer(data)
    pigeon_list = {}
-end 	  pigeon_names = []
+	  pigeon_names = []
+	  pigeon_names = []
   new_lvl_2_keys = data.keys #:color, :gender and :lives
   #collecting all names
   data.each do |key, value|
