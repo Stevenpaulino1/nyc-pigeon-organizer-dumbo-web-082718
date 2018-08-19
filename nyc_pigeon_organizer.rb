@@ -1,5 +1,5 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!	  pigeon_list = {}
+   pigeon_list = {}
 end 	  pigeon_names = []
   new_lvl_2_keys = data.keys #:color, :gender and :lives
   #collecting all names
